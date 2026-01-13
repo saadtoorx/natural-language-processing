@@ -41,7 +41,7 @@ A production-ready text summarization application powered by a local LLaMA model
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/llama-text-summarizer.git
+git clone https://github.com/saadtoorx/llama-text-summarizer.git
 cd llama-text-summarizer
 ```
 
