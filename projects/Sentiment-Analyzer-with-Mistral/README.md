@@ -124,7 +124,7 @@ Environment variables (set in `.env`):
 ## 📁 Project Structure
 
 ```
-Project 2 Sentiment Analyzer AI Project/
+Sentiment Analyzer AI/
 ├── backend/
 │   ├── __init__.py
 │   └── main.py          # FastAPI application
