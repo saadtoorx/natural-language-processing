@@ -1,0 +1,15 @@
+# Core Backend
+fastapi>=0.127.0
+uvicorn>=0.35.0
+requests>=2.32.0
+python-multipart>=0.0.21
+python-dotenv>=1.1.0
+
+# Frontend
+streamlit>=1.49.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Language Detection (Optional but good to have)
+langdetect>=1.0.9
