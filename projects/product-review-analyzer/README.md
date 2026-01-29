@@ -53,7 +53,7 @@ A specific, powerful, and AI-driven application designed to analyze product revi
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/product-review-analyzer.git
+   git clone https://github.com/saadtoorx/natural-language-processing/edit/main/projects/product-review-analyzer.git
    cd product-review-analyzer
    ```
 
